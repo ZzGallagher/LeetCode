@@ -1,0 +1,4 @@
+﻿  test.cpp
+F:\C++\Leetcode\Practice1\calss1.h(133,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\C++\Leetcode\Practice1\calss1.h(135,17): warning C4018: “<”: 有符号/无符号不匹配
+  Practice1.vcxproj -> F:\C++\Leetcode\Practice1\Debug\Practice1.exe
